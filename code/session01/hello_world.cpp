@@ -19,7 +19,6 @@ Este no es un comentario
 
 int main()
 {
-	''
 	std::cout << "Hello world\n";
 	std::cout << PI << "\n";
 	return 0;
