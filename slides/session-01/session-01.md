@@ -22,12 +22,6 @@ Session 01
 
 ---
 
-El episodio de hoy llega gracias a:
-
-![](cocacola.png)
-
----
-
 ## Course contents (1/3)
 
 1. Introduction to C++
