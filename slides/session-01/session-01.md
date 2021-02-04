@@ -27,7 +27,7 @@ Session 01
 1. Introduction to C++
 2. Stack and heap / Passing parameters by value / Pointers and references / Arrays
 3. C strings / More on pointers / more on arrays
-4. Dynamic memory allocation / classes / structs
+4. Pointers to pointers / dynamic memory allocation / classes / structs
 5. Methods / constructors / desturctors / access modifiers
 
 ---
