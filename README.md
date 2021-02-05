@@ -20,6 +20,13 @@ C++ overview course
     6. References
     7. Pass-by-reference
     8. Arrays
+    
+3. Session 03 - Arrays, pointers and C strings
+    1. Arrays
+    2. Array decay
+    3. C strings
+    4. Standard library C string functions
+    
 
 
 All code is compiled using g++ 10.2.

@@ -19,7 +19,6 @@ Session 03 - Arrays, pointers and C strings
 - Array decay
 - C strings
 - Functions to work with C strings
-- Multidimensional arrays
 
 ---
 
