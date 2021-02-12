@@ -27,11 +27,17 @@ C++ overview course
     3. C strings
     4. Standard library C string functions
     
-5. Session 04
+4. Session 04
     1. Multidimensional arrays
     2. Dynamic memory allocation
     3. Pointers to pointers
 
+5. Session 05
+    1. Structs
+    2. Constructors and destructors
+    3. Access modifiers
+    4. Methods
+    5. Classes
 
 
 All code is compiled using g++ 10.2.
