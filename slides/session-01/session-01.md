@@ -7,9 +7,11 @@ theme: uncover
 
 # C++ overview
 
-### Ernesto Bascón Pantoja
+### Session 01
 
-Session 01
+##### Ernesto Bascón Pantoja
+
+
 
 ---
 
@@ -34,20 +36,22 @@ Session 01
 
 ## Course contents (2/3)
 
-6. Inheritance and polymorphism / Casting operators
-7. Introduction to templates
-8. `std::string` / iterators / exceptions
-9. `std::vector` / `std::map` / `std::unordered_map`
-10. Function pointers / functors / lambda expressions
+6. Copy constructors / Assignments / Operator overloading / Casting operators
+7. Inheritance / Polymorphism / RTTI
+8. Introduction to templates
+9. `std::string` / iterators / exceptions
+10. `std::vector` / `std::map` / `std::unordered_map`
+
 
 ---
 
 ## Course contents (3/3)
 
-11. `std::tuple` / `std::optional` / `std::any` / `std::variant`
-12. Smart pointers
-13. Pimpl idiom. Microsoft specifics: Libraries & DLLs
-14. Windows specifics: `BSTR`, MFC strings & C++ CLI
+11. Function pointers / functors / lambda expressions
+12. `std::tuple` / `std::optional` / `std::any` / `std::variant`
+13. Smart pointers
+14. Pimpl idiom. Microsoft specifics: Libraries & DLLs
+15. Windows specifics: `BSTR`, MFC strings & C++ CLI
 
 ---
 
