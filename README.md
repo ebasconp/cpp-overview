@@ -39,6 +39,12 @@ C++ overview course
     4. Methods
     5. Classes
 
+6. Session 06
+    1. Copy constructors
+    2. Operator overloading
+    3. Assignment operator
+    4. Rule of 3 / Rule of 5
+    5. New casting operators
 
 All code is compiled using g++ 10.2.
 
