@@ -46,6 +46,16 @@ C++ overview course
     4. Rule of 3 / Rule of 5
     5. New casting operators
 
+7. Session 07
+    1. Inheritance
+    2. Method hiding
+    3. Object slicing
+    4. Polymorphism
+    5. Pure virtual methods
+    6. dynamic_cast&lt;T&gt;
+    
+
+
 All code is compiled using g++ 10.2.
 
 The slides are written in Markdown to be rendered using Marp.
