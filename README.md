@@ -54,6 +54,8 @@ C++ overview course
     5. Pure virtual methods
     6. dynamic_cast&lt;T&gt;
     
+8. Session 08. OOP example
+
 
 
 All code is compiled using g++ 10.2.
