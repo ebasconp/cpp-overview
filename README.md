@@ -56,6 +56,13 @@ C++ overview course
     
 8. Session 08. OOP example
 
+9. Session 09.
+    1. RTTI
+    2. Multiple inheritance
+    3. Exceptions
+   
+
+
 
 
 All code is compiled using g++ 10.2.

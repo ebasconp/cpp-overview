@@ -37,21 +37,22 @@ theme: uncover
 ## Course contents (2/3)
 
 6. Copy constructors / Assignments / Operator overloading / Casting operators
-7. Inheritance / Polymorphism / RTTI
-8. Introduction to templates
-9. `std::string` / iterators / exceptions
-10. `std::vector` / `std::map` / `std::unordered_map`
-
+7. Inheritance / Polymorphism
+8. OOP example
+9. RTTI / Multiple inheritance / Exceptions
+10. Introduction to templates
+11 `std::string` / iterators / `std::vector`
+12. `std::map` / `std::unordered_map`
 
 ---
 
 ## Course contents (3/3)
 
-11. Function pointers / functors / lambda expressions
-12. `std::tuple` / `std::optional` / `std::any` / `std::variant`
-13. Smart pointers
-14. Pimpl idiom. Microsoft specifics: Libraries & DLLs
-15. Windows specifics: `BSTR`, MFC strings & C++ CLI
+13. Function pointers / functors / lambda expressions
+14. `std::tuple` / `std::optional` / `std::any` / `std::variant`
+15. Smart pointers
+16. Pimpl idiom. Microsoft specifics: Libraries & DLLs
+17. Windows specifics: `BSTR`, MFC strings & C++ CLI
 
 ---
 
