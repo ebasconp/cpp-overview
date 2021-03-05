@@ -216,7 +216,10 @@ class ConcreteDerived : public Base<double>
 Implement a LinkedList<T>:
 
 ```
-template <typename T>
+template <
+    typename T,
+    typename Equal = my_equal<T>,
+    typename Printer = cout_printer<T>>
 class LinkedList
 {
 public:
@@ -229,3 +232,12 @@ public:
   void print_all() const;
 };
 ```
+---
+*About the exercise:*
+
+`cout_printer<T>` will use `std::cout` to print one element and `my_equal<T>` will be useful to compare two objects using `operator=`.
+
+Both will be pluggable to provide more flexibility on how to find an element and how to print it.
+
+
+
