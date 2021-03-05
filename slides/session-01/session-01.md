@@ -41,18 +41,19 @@ theme: uncover
 8. OOP example
 9. RTTI / Multiple inheritance / Exceptions
 10. Introduction to templates
-11 `std::string` / iterators / `std::vector`
-12. `std::map` / `std::unordered_map`
+11. Variadic templates / Tuple
+12. `std::string` / iterators / `std::vector`
+13. `std::map` / `std::unordered_map`
 
 ---
 
 ## Course contents (3/3)
 
-13. Function pointers / functors / lambda expressions
-14. `std::tuple` / `std::optional` / `std::any` / `std::variant`
-15. Smart pointers
-16. Pimpl idiom. Microsoft specifics: Libraries & DLLs
-17. Windows specifics: `BSTR`, MFC strings & C++ CLI
+14. Function pointers / functors / lambda expressions
+15. `std::optional` / `std::any` / `std::variant`
+16. Smart pointers
+17. Pimpl idiom. Microsoft specifics: Libraries & DLLs
+18. Windows specifics: `BSTR`, MFC strings & C++ CLI
 
 ---
 

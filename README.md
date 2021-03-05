@@ -61,6 +61,12 @@ C++ overview course
     2. Multiple inheritance
     3. Exceptions
    
+10. Session 10.
+    1. Introduction to templates
+    2. Template specialization
+    3. Inheritance with templates
+
+
 
 
 
