@@ -41,9 +41,9 @@ theme: uncover
 8. OOP example
 9. RTTI / Multiple inheritance / Exceptions
 10. Introduction to templates
-11. Variadic templates / Tuple
-12. `std::string` / iterators / `std::vector`
-13. `std::map` / `std::unordered_map`
+11. Variadic templates / Tuple / `std::string`
+12. `std::string_view` / `std::vector` / `std::map` / `std::unordered_map`
+13. Move semantics / Rule of 5 / `std::move` / `std::forward`
 
 ---
 

@@ -66,9 +66,10 @@ C++ overview course
     2. Template specialization
     3. Inheritance with templates
 
-
-
-
+11. Session 11.
+    1. Variadic templates
+    2. Tuple
+    3. std::string
 
 
 All code is compiled using g++ 10.2.
