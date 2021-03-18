@@ -42,14 +42,14 @@ theme: uncover
 9. RTTI / Multiple inheritance / Exceptions
 10. Introduction to templates
 11. Variadic templates / Tuple / `std::string`
-12. `std::string_view` / `std::vector` / `std::map` / `std::unordered_map`
-13. Move semantics / Rule of 5 / `std::move` / `std::forward`
+12. `std::string_view` / `std::vector` / `std::set`
+13. Function pointers / functors / lambda expressions
 
 ---
 
 ## Course contents (3/3)
 
-14. Function pointers / functors / lambda expressions
+14. `std::map` / `std::unordered_map` / Move semantics / Rule of 5 / `std::move` / `std::forward`
 15. `std::optional` / `std::any` / `std::variant`
 16. Smart pointers
 17. Pimpl idiom. Microsoft specifics: Libraries & DLLs

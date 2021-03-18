@@ -71,6 +71,21 @@ C++ overview course
     2. Tuple
     3. std::string
 
+12. Session 12.
+    1. `std::string_view`
+    2. `std::array<T, N>`
+    3. `std::list<T>`
+    4. `std::vector<T>`
+    5. `std::set<T>`
+    6. `std::unordered_set<T>`
+
+13. Session 13.
+	1. Function pointers
+	2. Function objects
+	3. Lambda expressions
+	4. `std::function<T>`
+    
+
 
 All code is compiled using g++ 10.2.
 
