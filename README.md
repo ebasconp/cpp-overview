@@ -84,7 +84,14 @@ C++ overview course
 	2. Function objects
 	3. Lambda expressions
 	4. `std::function<T>`
-    
+   
+14. Session 14.
+    1. `std::unordered_map<T>`
+    2. Move semantics
+    3. Rule of 5
+    4. `std::move()`
+    5. `std::forward<T>()`
+
 
 
 All code is compiled using g++ 10.2.
