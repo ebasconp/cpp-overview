@@ -198,7 +198,7 @@ If we need to allocate memory explicitly, we need to implement:
 int main()
 {
     jala::trie<int> s;
-    s.add("uva", ");
+    s.add("uva", 506);
     s.add("manzana", 25);
     s.add("pera", 10);
 
