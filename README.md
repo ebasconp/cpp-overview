@@ -92,7 +92,10 @@ C++ overview course
     4. `std::move()`
     5. `std::forward<T>()`
 
-
+15. Session 15.
+    1. `std::optional<T>`
+    2. `std::variant<T...>`
+    3. `std::any`
 
 All code is compiled using g++ 10.2.
 
