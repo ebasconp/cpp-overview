@@ -97,6 +97,12 @@ C++ overview course
     2. `std::variant<T...>`
     3. `std::any`
 
+16. Session 16.
+    1. Smart pointers
+    2. `std::unique_ptr<T>`
+    3. `std::shared_ptr<T>`
+    4. `std::weak_ptr<T>`
+
 All code is compiled using g++ 10.2.
 
 The slides are written in Markdown to be rendered using Marp.
