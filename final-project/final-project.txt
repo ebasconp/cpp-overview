@@ -1,0 +1,28 @@
+Proyecto final
+--------------
+
+A. Crear una DLL que permita jugar ajedrez entre 2 usuarios:
+
+1. Permita crear una nueva partida
+2. Permita a dos usuarios jugar.
+3. Cada usuario puede mover una ficha del tablero.
+4. El sistema debe botar excepciones si las movidas son inválidas
+5. El sistema debe devolver las posibles movidas de una ficha.
+6. El sistema debe detectar jaques/jaquemates
+7. El sistema debe almacenar todas las movidas hechas por ambos jugadores.
+
+B. Crear una aplicación que consuma la DLL.
+	- La aplicación puede ser en modo texto o con interfaz gráfica
+
+REQUERIMIENTOS NO FUNCIONALES:
+1. No usar "raw-pointers".
+2. Preferir stack-object y referencias a heap-objects y punteros.
+2. Usar sólo las clases de la librería estándar y clases implementadas por ustedes.
+3. No crashes
+4. No memory leaks
+
+BONUS:
+1. Usar GTK+, wxWidgets, MFC ó Qt para la interfaz de usuario.
+2. Portar la aplicación a Linux
+
+PRESENTACION FINAL: Lunes 19 de abril, 17:00

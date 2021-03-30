@@ -52,7 +52,7 @@ theme: uncover
 14. `std::map` / `std::unordered_map` / Move semantics / Rule of 5 / `std::move` / `std::forward`
 15. `std::optional` / `std::any` / `std::variant`
 16. Smart pointers
-17. Pimpl idiom. Microsoft specifics: Libraries & DLLs
+17. Pimpl idiom. Microsoft specifics: DLLs
 18. Windows specifics: `BSTR`, MFC strings & C++ CLI
 
 ---

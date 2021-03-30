@@ -103,6 +103,11 @@ C++ overview course
     3. `std::shared_ptr<T>`
     4. `std::weak_ptr<T>`
 
+17. Session 17.
+    1. DLLs in Windows
+    2. Pimpl idiom
+    3. Dynamic-binding DLLs
+
 All code is compiled using g++ 10.2.
 
 The slides are written in Markdown to be rendered using Marp.
