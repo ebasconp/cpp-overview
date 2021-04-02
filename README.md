@@ -106,9 +106,14 @@ C++ overview course
 17. Session 17.
     1. DLLs in Windows
     2. Pimpl idiom
-    3. Dynamic-binding DLLs
+ 
+18. Session 18.
+    1. Dynamic-binding DLLs
+    2. BSTR
+    3. CString
+    4. C++/CLI
 
-All code is compiled using g++ 10.2.
+All code is compiled using g++ 10.2 except for Sessions 17 and 18 that are compiled using Visual Studio 2019 Community.
 
 The slides are written in Markdown to be rendered using Marp.
 
